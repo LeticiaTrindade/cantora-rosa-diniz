@@ -1,0 +1,16 @@
+.bio{
+    height: 100%;
+    background-image: url('../images/bio.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-top: 3rem;
+}
+
+.textBio{
+    padding-top: 4rem;
+    padding-left: 3rem;
+    padding-bottom: 2rem;
+}
+.bio h1{
+    margin-bottom: 2rem;
+}
